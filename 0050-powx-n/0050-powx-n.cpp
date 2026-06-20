@@ -1,7 +1,7 @@
 class Solution {
 public:
     double myPow(double x, int n) {
-        long long binform = n;
+        long binform = n;
         if (n < 0){
             x = 1/x;
             binform = - binform;
