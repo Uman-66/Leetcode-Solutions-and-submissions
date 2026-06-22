@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0367-valid-perfect-square) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
