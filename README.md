@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0283-move-zeroes) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0367-valid-perfect-square) |
 ## Two Pointers
