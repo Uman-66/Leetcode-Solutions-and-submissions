@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -73,5 +75,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
