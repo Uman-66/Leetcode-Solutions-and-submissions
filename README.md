@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [2057-smallest-index-with-equal-value](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/2057-smallest-index-with-equal-value) |
 ## Hash Table
 |  |
 | ------- |
