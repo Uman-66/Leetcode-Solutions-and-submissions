@@ -45,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1572-matrix-diagonal-sum) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2057-smallest-index-with-equal-value](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/2057-smallest-index-with-equal-value) |
+| [2965-find-missing-and-repeated-values](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0217-contains-duplicate) |
+| [2965-find-missing-and-repeated-values](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0367-valid-perfect-square) |
+| [2965-find-missing-and-repeated-values](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1572-matrix-diagonal-sum) |
+| [2965-find-missing-and-repeated-values](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
