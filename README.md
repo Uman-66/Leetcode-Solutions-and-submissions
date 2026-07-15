@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0367-valid-perfect-square) |
 | [2965-find-missing-and-repeated-values](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/2965-find-missing-and-repeated-values) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -186,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0387-first-unique-character-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
