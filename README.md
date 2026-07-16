@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0567-permutation-in-string) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Divide and Conquer
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0771-jewels-and-stones) |
