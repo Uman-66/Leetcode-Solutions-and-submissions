@@ -10,7 +10,7 @@ class Solution:
         ans = [0, 0]
         for i in range(1, n + 1):
             if freq[i] == 2:
-                ans[0] = i         
+                ans[0] = i          # duplicate
             elif freq[i] == 0:
-                ans[1] = i          
+                ans[1] = i          # missing
         return ans
