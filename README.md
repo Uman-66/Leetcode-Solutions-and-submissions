@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0867-transpose-matrix) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0567-permutation-in-string) |
+| [0645-set-mismatch](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0771-jewels-and-stones) |
 | [2965-find-missing-and-repeated-values](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0414-third-maximum-number) |
+| [0645-set-mismatch](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Divide and Conquer
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0645-set-mismatch) |
 ## Counting
 |  |
 | ------- |
