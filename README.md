@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0053-maximum-subarray) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0242-valid-anagram) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0078-subsets) |
