@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0231-power-of-two) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0509-fibonacci-number) |
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0131-palindrome-partitioning) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
