@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1572-matrix-diagonal-sum) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2057-smallest-index-with-equal-value](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/2057-smallest-index-with-equal-value) |
+| [2596-check-knight-tour-configuration](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1572-matrix-diagonal-sum) |
+| [2596-check-knight-tour-configuration](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0867-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2596-check-knight-tour-configuration](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/2596-check-knight-tour-configuration) |
 ## Queue
 |  |
 | ------- |
@@ -277,4 +280,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0062-unique-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/2596-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
