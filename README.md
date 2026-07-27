@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1572-matrix-diagonal-sum](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1572-matrix-diagonal-sum) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1552-magnetic-force-between-two-balls) |
 | [3536-maximum-product-of-two-digits](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
