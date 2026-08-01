@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0238-product-of-array-except-self) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0342-power-of-four) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0204-count-primes) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Stack
 |  |
@@ -302,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
