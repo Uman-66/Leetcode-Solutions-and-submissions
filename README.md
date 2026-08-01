@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0771-jewels-and-stones) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1910-remove-all-occurrences-of-a-substring) |
