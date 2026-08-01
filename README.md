@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0287-find-the-duplicate-number) |
+| [0443-string-compression](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0409-longest-palindrome) |
+| [0443-string-compression](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0771-jewels-and-stones) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1910-remove-all-occurrences-of-a-substring) |
