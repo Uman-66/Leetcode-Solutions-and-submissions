@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1572-matrix-diagonal-sum](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1572-matrix-diagonal-sum) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2057-smallest-index-with-equal-value](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/2057-smallest-index-with-equal-value) |
 | [2596-check-knight-tour-configuration](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/2596-check-knight-tour-configuration) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0771-jewels-and-stones) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Matrix
