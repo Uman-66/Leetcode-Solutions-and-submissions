@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0877-stone-game) |
 | [2965-find-missing-and-repeated-values](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/2965-find-missing-and-repeated-values) |
 | [3536-maximum-product-of-two-digits](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -310,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0204-count-primes) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
