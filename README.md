@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0877-stone-game) |
+| [2235-add-two-integers](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/2235-add-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/2965-find-missing-and-repeated-values) |
 | [3536-maximum-product-of-two-digits](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
