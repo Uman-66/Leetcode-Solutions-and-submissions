@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0704-binary-search) |
+| [0850-rectangle-area-ii](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0850-rectangle-area-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0875-koko-eating-bananas) |
@@ -318,4 +319,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0877-stone-game) |
+## Segment Tree
+|  |
+| ------- |
+| [0850-rectangle-area-ii](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0850-rectangle-area-ii) |
+## Sweep Line
+|  |
+| ------- |
+| [0850-rectangle-area-ii](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0850-rectangle-area-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [0850-rectangle-area-ii](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0850-rectangle-area-ii) |
 <!---LeetCode Topics End-->
