@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0069-sqrtx) |
+| [0168-excel-sheet-column-title](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0326-power-of-three) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0151-reverse-words-in-a-string) |
+| [0168-excel-sheet-column-title](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0387-first-unique-character-in-a-string) |
