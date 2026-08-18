@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0771-jewels-and-stones) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1552-magnetic-force-between-two-balls) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Enumeration
 |  |
