@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0901-online-stock-span) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0155-min-stack) |
 | [0707-design-linked-list](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0901-online-stock-span) |
 ## Floyd's Cycle Finding Algorithm
