@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0645-set-mismatch) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0901-online-stock-span) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
