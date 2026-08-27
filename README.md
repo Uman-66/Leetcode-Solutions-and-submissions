@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0053-maximum-subarray) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0125-valid-palindrome) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0496-next-greater-element-i) |
@@ -380,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0503-next-greater-element-ii) |
