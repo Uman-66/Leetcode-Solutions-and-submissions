@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0509-fibonacci-number) |
+| [0556-next-greater-element-iii](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0556-next-greater-element-iii) |
 | [0877-stone-game](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0877-stone-game) |
 | [2235-add-two-integers](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/2235-add-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/2965-find-missing-and-repeated-values) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0443-string-compression) |
+| [0556-next-greater-element-iii](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0977-squares-of-a-sorted-array) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0520-detect-capital) |
+| [0556-next-greater-element-iii](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0771-jewels-and-stones) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
