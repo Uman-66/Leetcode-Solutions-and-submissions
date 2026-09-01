@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0739-daily-temperatures) |
 | [0850-rectangle-area-ii](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0850-rectangle-area-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0867-transpose-matrix) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0901-online-stock-span) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
