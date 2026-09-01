@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0287-find-the-duplicate-number) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0387-first-unique-character-in-a-string) |
 ## Number Theory
 |  |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0567-permutation-in-string) |
 ## Memoization
 |  |
@@ -409,8 +413,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0239-sliding-window-maximum) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0146-lru-cache) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
