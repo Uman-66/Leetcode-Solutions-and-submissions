@@ -11,11 +11,13 @@ class Solution:
         def height(node):
             if not node:
                 return 0
-            left = height(node.left)
-            right = height(node.right)
+            l = height(node.left)
+            r = height(node.right)
+            self.d = max(self.d, l+r)
+            return max(l, r) + 1
 
-            self.d = max(self.d, left+right)
-            return max(left, right)+1
 
         height(root)
+        
+
         return self.d
