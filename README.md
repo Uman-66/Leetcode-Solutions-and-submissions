@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0136-single-number) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0142-linked-list-cycle-ii) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0572-subtree-of-another-tree) |
@@ -453,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0572-subtree-of-another-tree) |
