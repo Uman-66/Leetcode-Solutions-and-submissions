@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0409-longest-palindrome) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0257-binary-tree-paths) |
 ## Combinatorics
 |  |
 | ------- |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0572-subtree-of-another-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/2596-check-knight-tour-configuration) |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -459,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
