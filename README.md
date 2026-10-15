@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0496-next-greater-element-i) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0707-design-linked-list) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0543-diameter-of-binary-tree) |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0543-diameter-of-binary-tree) |
@@ -492,5 +496,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
