@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0217-contains-duplicate) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0200-number-of-islands](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0543-diameter-of-binary-tree) |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0200-number-of-islands) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/2596-check-knight-tour-configuration) |
 ## Counting Sort
@@ -502,4 +506,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0173-binary-search-tree-iterator) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
