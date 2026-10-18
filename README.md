@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0994-rotting-oranges) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/1572-matrix-diagonal-sum) |
 | [2596-check-knight-tour-configuration](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/2596-check-knight-tour-configuration) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0200-number-of-islands) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/2596-check-knight-tour-configuration) |
 ## Counting Sort
 |  |
