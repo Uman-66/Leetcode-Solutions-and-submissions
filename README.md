@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0066-plus-one) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Uman-66/Leetcode-Solutions-and-submissions/tree/master/0131-palindrome-partitioning) |
